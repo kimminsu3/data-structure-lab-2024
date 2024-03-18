@@ -1,0 +1,9 @@
+﻿  lec4.c
+C:\Users\USER\Documents\data structure 2024\Project1\Project1\lec4.c(10,14): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  C:\Users\USER\Documents\data structure 2024\Project1\Project1\lec4.c(10,14):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+C:\Users\USER\Documents\data structure 2024\Project1\Project1\lec4.c(8,2): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\data structure 2024\Project1\Project1\lec4.c(9,2): error C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\data structure 2024\Project1\Project1\lec4.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\data structure 2024\Project1\Project1\lec4.c(15,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
